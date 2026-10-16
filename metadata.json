@@ -1,0 +1,6 @@
+{
+  "name": "Central do Observatório de Dados",
+  "description": "Sistema Administrativo e Operacional do Observatório de Dados para acompanhamento dos sistemas das gerências, comunicação direta, inputs manuais e personalização visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
